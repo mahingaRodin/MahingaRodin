@@ -1,4 +1,4 @@
-
+![logo](https://github.com/mahingaRodin/MahingaRodin/blob/main/Mahinga%20Rodin.png)
 <h1 align="center">Hi 👋, I'm Mahinga Rodin</h1>
 <h3 align="center">A passionate Software Engineer from Rwanda Coding Academy .</h3>
 
