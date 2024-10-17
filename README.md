@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **mahingarodin@gmail.com**
 
-- ⚡ Fun fact **I think I am a Pro.😎**
+- ⚡ Fun fact **Am a Code Artisan.😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
