@@ -10,17 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/rodin9878" target="blank"><img src="https://img.shields.io/twitter/follow/rodin9878?logo=twitter&style=for-the-badge" alt="rodin9878" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](Not available yet.)
+- 🔭 I’m currently working on [TeleHealth]
 
-- 🌱 I’m currently learning **Go & Swift**
+- 🌱 I’m currently learning **Go & Kotlin**
 
-- 👯 I’m looking to collaborate on [School Administration System](Not available yet.)
+- 👯 I’m looking to collaborate on [School Administration System]
 
-- 🤝 I’m looking for help with [Health Tracker](Not available.)
+- 🤝 I’m looking for help with [Health Tracker]
 
-- 👨‍💻 All of my projects are available at [Not available yet.](Not available yet.)
-
-- 💬 Ask me about **Nextjs , react, python ,etc...**
+- 💬 Ask me about **docker , java, python ,etc...**
 
 - 📫 How to reach me **mahingarodin@gmail.com**
 
