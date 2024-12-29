@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Go & Kotlin**
 
-- 👯 I’m looking to collaborate on [School Administration System]
+- 👯 I’m looking to collaborate on [School Management System]
 
 - 🤝 I’m looking for help with [Health Tracker]
 
