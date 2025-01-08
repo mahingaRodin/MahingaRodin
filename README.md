@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mahinga Rodin</h1>
 <h3 align="center">A passionate Software Engineer from Rwanda Coding Academy .</h3>
 
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.75c2f842863ae2df6b3ac2d0a4d63026?rik=%2ftmFo%2bawg2xXjw&pid=ImgRaw&r=0">
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahingarodin" alt="mahingarodin" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rodin9878" target="blank"><img src="https://img.shields.io/twitter/follow/rodin9878?logo=twitter&style=for-the-badge" alt="rodin9878" /></a> </p>
 
 - 🔭 I’m currently working on [TeleHealth]
 
-- 🌱 I’m currently learning **Go & Kotlin**
+- 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on [School Management System]
 
 - 🤝 I’m looking for help with [Health Tracker]
 
-- 💬 Ask me about **docker , java, python ,etc...**
+- 💬 Ask me about **c++ , java, python ,etc...**
 
 - 📫 How to reach me **mahingarodin@gmail.com**
 
