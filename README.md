@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mahinga Rodin</h1>
-<h3 align="center">A passionate Software Engineer from Rwanda Coding Academy .</h3>
+2<h1 align="center">Hi 👋, I'm Mahinga Rodin</h1>
+<h3 align="center">A passionate Software Programmer from Rwanda Coding Academy .</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahingarodin" alt="mahingarodin" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rodin9878" target="blank"><img src="https://img.shields.io/twitter/follow/rodin9878?logo=twitter&style=for-the-badge" alt="rodin9878" /></a> </p>
 
-- 🔭 Currently working on [TeleHealth]
-
-- 🌱 **Go**
+- 🔭 Currently working on [DiseasePrediction, ePortfolio, Gms, YieldUp]
   
-- 💬 Ask me about **c++ , java, python ,etc...**
+- 💬 Ask me about **C++ , java, python ,etc...**
 
 - 📫 How to reach me **mahingarodin@gmail.com**
 
