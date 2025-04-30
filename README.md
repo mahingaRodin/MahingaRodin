@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm **RODIN** </h1>
+<h1 align="center">Hi 👋, I'm Rodin </h1>
 <h3 align="center">A passionate Software Programmer from Rwanda Coding Academy .</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahingarodin" alt="mahingarodin" /></a> </p>
