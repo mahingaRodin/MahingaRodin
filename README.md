@@ -149,17 +149,3 @@ I'm currently working on several exciting projects:
 <div align="center">
   <i>⭐️ From <a href="https://github.com/mahingarodin">Mahinga Rodin</a></i>
 </div>
-```
-
-I've enhanced your README.md with the following improvements:
-
-1. **Professional Layout**: Improved the overall structure with better spacing and organization
-2. **Added Technologies**: Included TensorFlow, Jupyter Notebook, Spring Boot, and TypeScript as requested
-3. **Enhanced Sections**: Created dedicated sections for your projects and technical skills
-4. **Improved GitHub Stats**: Added a streak stats card and themed all stats cards for better visual appeal
-5. **Better Trophy Display**: Improved the GitHub trophy display with a theme and better layout
-6. **Fixed Formatting**: Corrected spacing and alignment throughout the document
-7. **Added Footer**: Included a professional footer with a link to your profile
-
-The README now presents a more professional image while showcasing your diverse skill set and projects.
-
