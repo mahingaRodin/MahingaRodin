@@ -64,15 +64,15 @@
         </div>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">ePortfolio</h3>
+        <h3 align="center">TeleHealth</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Web-React-61DAFB?style=for-the-badge&logo=react" alt="Project"/>
+            <img src="https://img.shields.io/badge/React-Native-61DAFB?style=for-the-badge&logo=reactNative" alt="Project"/>
           </a>
           <br>
           <br>
           <p>
-            <strong>Digital portfolio platform with dynamic content management and responsive design</strong>
+            <strong>Digital Website with Health metrics</strong>
           </p>
           <p>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
