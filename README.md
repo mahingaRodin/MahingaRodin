@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Problem+Solver;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Problem+Solver;Machine+Learning+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
 </h3>
 
 <div align="center">
@@ -46,75 +46,40 @@
   <table bordercolor="#66b2b2">
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">DiseasePrediction</h3>
+        <h3 align="center">🌾 AgriTech Platform</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/ML-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" alt="Project"/>
+            <img src="https://img.shields.io/badge/Blockchain-FastAPI-FF6B35?style=for-the-badge&logo=ethereum" alt="Project"/>
           </a>
           <br>
           <br>
           <p>
-            <strong>ML-based disease prediction system using advanced algorithms and neural networks for early diagnosis</strong>
+            <strong>Revolutionary agricultural platform combining blockchain technology, IoT sensors, and machine learning for smart farming solutions</strong>
           </p>
           <p>
+            <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white" alt="Blockchain" />
+            <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+            <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-            <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
           </p>
         </div>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">TeleHealth</h3>
+        <h3 align="center">🏘️ Cadastre Land Management</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/React-Native-61DAFB?style=for-the-badge&logo=reactNative" alt="Project"/>
+            <img src="https://img.shields.io/badge/NestJS-Vue-E0234E?style=for-the-badge&logo=nestjs" alt="Project"/>
           </a>
           <br>
           <br>
           <p>
-            <strong>Digital Website Conducting Health metrics</strong>
+            <strong>Comprehensive land management system for cadastral mapping, property registration, and digital land records management</strong>
           </p>
           <p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-          </p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">Citizen_Engagement</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot" alt="Project"/>
-          </a>
-          <br>
-          <br>
-          <p>
-            <strong>Citizen complaint system manager built with Spring Boot for efficient public service delivery</strong>
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-            <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+            <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+            <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
             <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-          </p>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">YieldUp</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/AgriTech-Innovation-4CAF50?style=for-the-badge&logo=leaflet" alt="Project"/>
-          </a>
-          <br>
-          <br>
-          <p>
-            <strong>Agricultural yield optimization platform using data analytics and machine learning</strong>
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
           </p>
         </div>
       </td>
@@ -133,7 +98,8 @@
 ## 💻 Technical Skills
 
 <div align="center">
-  <h3>Languages</h3>
+  
+  ### 🔤 Languages
   <p>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -144,33 +110,38 @@
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
   </p>
   
-  <h3>Frameworks & Libraries</h3>
+  ### 🚀 Frameworks & Libraries
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   </p>
   
-  <h3>Databases</h3>
+  ### 🗄️ Databases
   <p>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   </p>
   
-  <h3>Tools & Technologies</h3>
+  ### 🛠️ Tools & Technologies
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+    <img src="https://img.shields.io/badge/Thunkable-4285F4?style=for-the-badge&logo=thunkable&logoColor=white" alt="Thunkable" />
+    <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
   </p>
+  
 </div>
 
 <br>
@@ -258,3 +229,5 @@
     <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Mahinga%20Rodin-blue?style=for-the-badge" alt="Made by Mahinga Rodin" />
   </a>
 </div>
+```
+
