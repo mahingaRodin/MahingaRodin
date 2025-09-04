@@ -1,6 +1,6 @@
 # Mahinga Rodin
 
-**Software Engineer | Problem Solver | Machine Learning Enthusiast | Full Stack Developer**
+**Software Programmer | Problem Solver | Machine Learning Enthusiast | Backend Developer | DevOps Engineer**
 
 [![Rwanda Coding Academy](https://img.shields.io/badge/Rwanda_Coding_Academy-Student-2d3748?style=flat&logo=academia&logoColor=white)](https://rca.ac.rw)
 [![Profile Views](https://komarev.com/ghpvc/?username=mahingarodin&label=Profile%20views&color=2d3748&style=flat)](https://github.com/mahingarodin)
