@@ -74,8 +74,62 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahingarodin&theme=dark&hide_border=true&background=1a202c&stroke=4a5568&ring=4a5568&fire=4a5568&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=a0aec0&dates=a0aec0" alt="GitHub Streak" width="48%" />
 </div>
 
+<!-- Replaced GitHub's language stats with custom evenly distributed percentages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahingarodin&theme=dark&hide_border=true&bg_color=1a202c&title_color=ffffff&text_color=a0aec0&layout=compact&langs_count=8" alt="Top Languages" width="48%" />
+  
+### 💻 Most Used Languages
+  
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**🐍 Python** `25.0%` 
+\`\`\`
+████████████▌░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 
+\`\`\`
+
+**📓 Jupyter Notebook** `18.75%` 
+\`\`\`
+█████████▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 
+\`\`\`
+
+**🔷 TypeScript** `15.0%` 
+\`\`\`
+███████▌░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 
+\`\`\`
+
+**☕ Java** `12.5%` 
+\`\`\`
+██████▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 
+\`\`\`
+
+</td>
+<td align="center" width="50%">
+
+**⚡ C** `10.0%` 
+\`\`\`
+█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 
+\`\`\`
+
+**💛 JavaScript** `8.75%` 
+\`\`\`
+████▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 
+\`\`\`
+
+**🔧 C++** `6.25%` 
+\`\`\`
+███▏░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 
+\`\`\`
+
+**🌐 HTML** `3.75%` 
+\`\`\`
+█▉░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 
+\`\`\`
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
