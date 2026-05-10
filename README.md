@@ -49,15 +49,6 @@
 
 ---
 
-## Currently Learning
-
-![AWS](https://img.shields.io/badge/AWS-1a202c?style=flat&logo=amazon-aws&logoColor=ff9900)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-1a202c?style=flat&logo=digitalocean&logoColor=0080ff)
-![GraphQL](https://img.shields.io/badge/GraphQL-1a202c?style=flat&logo=graphql&logoColor=e10098)
-![Flutter](https://img.shields.io/badge/Flutter-1a202c?style=flat&logo=flutter&logoColor=02569b)
-
----
-
 ## GitHub Statistics
 
 <div align="center">
